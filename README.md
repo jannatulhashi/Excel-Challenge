@@ -20,6 +20,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 ![](Starter_Code/Images/CategoryStats.PNG)
 
+  
    - Create a new sheet with a pivot table that analyzes my initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
 - Create a stacked-column pivot chart that can be filtered by country based on the table that I created.
