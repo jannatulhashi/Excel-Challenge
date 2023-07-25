@@ -1,4 +1,4 @@
-# Excel-Challenge
+# Crowdfunding Campaign Analysis and Insights 
 Using Excel to modify and analyze the crowdfunding data and try to uncover the crowdfunding market trends.
 
 ## Background
