@@ -1,5 +1,4 @@
 # Crowdfunding Campaign Analysis and Insights 
-Analyze data from 1,000 crowdfunding campaigns using MS  Excel to transform the data into actionable insights, thereby empowering decision-makers to strategize for future campaign success.
 
 ## Background
 
