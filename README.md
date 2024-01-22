@@ -45,11 +45,11 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 **Analysis:** The provided graph illustrates the outcomes of crowdfunding campaigns by month. The key observations are:
 
-Successful Campaigns: There are two peaks, one in June with 55 successful campaigns and another in July with 58. These months are the most favorable for campaigns to succeed.
+**Successful Campaigns:** There are two peaks, one in June with 55 successful campaigns and another in July with 58. These months are the most favorable for campaigns to succeed.
 
-Failed Campaigns: The number of failed campaigns generally hovers around 30 per month, with a noticeable increase in March to 33 and a peak in December at 36.
+**Failed Campaigns:** The number of failed campaigns generally hovers around 30 per month, with a noticeable increase in March to 33 and a peak in December at 36.
 
-Canceled Campaigns: Cancellations are relatively low and consistent throughout the year, with a slight increase in August to 8.
+**Canceled Campaigns:** Cancellations are relatively low and consistent throughout the year, with a slight increase in August to 8.
 
 Overall, the data suggests that the middle of the year, particularly June and July, maybe the best time to launch crowdfunding campaigns for a higher chance of success. The end of the year, especially December, has the highest risk of failure. Cancellations do not show a clear pattern throughout the year. 
 
