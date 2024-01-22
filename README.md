@@ -53,7 +53,25 @@ Canceled Campaigns: Cancellations are relatively low and consistent throughout t
 
 Overall, the data suggests that the middle of the year, particularly June and July, maybe the best time to launch crowdfunding campaigns for a higher chance of success. The end of the year, especially December, has the highest risk of failure. Cancellations do not show a clear pattern throughout the year. 
 
+### **The observed trends in my analysis of crowdfunding campaigns could be due to several factors:**
 
+- **Popularity and Community Support:** Theater and Technology are often driven by strong community support and interest. Theater projects, in particular, may benefit from a dedicated community that is passionate about supporting the arts. Technology projects often attract backers interested in innovation and new gadgets.
+
+- **Project Visibility and Marketing:** Success in these categories might also be influenced by how well the projects are marketed and the visibility they receive. Theater and technology projects may be more likely to have robust marketing campaigns that effectively reach potential backers.
+
+- **Discretionary Spending and Trends:** The middle of the year may coincide with times when people have more disposable income (such as after tax refunds in some countries) or when they are more engaged with online platforms, leading to a higher chance of success for campaigns launched in June and July.
+
+- **Seasonal Factors:** December's higher risk of failure could be due to the holiday season when potential backers might prioritize personal spending over crowdfunding contributions.
+
+- **Goal Feasibility:** Lower financial goals are generally perceived as more achievable, making it easier for backers to believe that their contributions can make a difference. This can lead to higher success rates for campaigns with modest goals.
+
+- **Risk Assessment by Backers:** For higher goal amounts, backers may be more cautious, as these projects are seen as more ambitious and riskier. The probability of large projects not delivering on their promises or facing logistical challenges may deter backers.
+
+- **Economic Factors** Broader economic conditions can also influence crowdfunding success. For example, during economic downturns, backers may be more conservative with their spending, affecting the success of campaigns.
+
+- **Niche Appeal:** Journalism and games may face challenges due to their niche appeal or the saturation of the market with many similar projects, making it harder for individual campaigns to stand out.
+
+  
 - Then I will create a report in Microsoft Word, and answer the following questions:
 
 **Question:** Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
@@ -145,6 +163,13 @@ To gain an in-depth understanding of campaign backers, evaluate the number of ba
    - The maximum number of backers
    - The variance in the number of backers
    - The standard deviation of the number of backers
+
+![](Starter_Code/Images/statical_analysis.PNG)
+
+**Analysis:** In crowdfunding campaigns, successful ones on average have more backers but also show greater variability in backer numbers than unsuccessful ones. Successful campaigns have a median of 795 backers, while unsuccessful ones have a much lower median of 114.5, indicating that the typical successful campaign has more support.
+
+Unsuccessful campaigns include an outlier with a very large number of backers, which skews the average and variance. The median is a more reliable indicator than the average for both successful and unsuccessful campaigns, as it's less influenced by extreme cases. This could imply that even campaigns with many backers can fail, perhaps due to reasons other than lack of support.
+
 
 - I will use my data to determine whether the mean or the median better summarizes the data.
   
