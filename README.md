@@ -24,7 +24,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 ![](Starter_Code/Images/CategoryStats.PNG)
 
-**Analysis:** The chart shows that in crowdfunding, theater projects have the most and the highest success rate, with technology also doing well. Music and film have many campaigns, but music is more successful. Journalism hardly succeeds and might be less suited for crowdfunding. Games are hit or miss. Food, photography, and publishing often fail, suggesting higher risk in these areas. Few campaigns are live or canceled, meaning most either succeed or fail outright. Theater and technology are the best bets for crowdfunding success, while journalism and games are tougher sells.
+**Analysis:** The chart shows that in crowdfunding, the theater category has the most and the highest success rate, with technology also doing well. Music and film & video have many campaigns, but music is more successful. Journalism hardly succeeds and might be less suited for crowdfunding. Games are hit or miss. Food, photography, and publishing often fail, suggesting higher risk in these areas. Few campaigns are live or canceled, meaning most either succeed or fail outright. Theater and technology are the best bets for crowdfunding success, while journalism and games are tougher sells.
 
 
 - Create a new sheet with a pivot table that analyzes my initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**. 
