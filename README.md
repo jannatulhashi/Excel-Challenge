@@ -170,15 +170,15 @@ To gain an in-depth understanding of campaign backers, evaluate the number of ba
 Unsuccessful campaigns include an outlier with a very large number of backers, which skews the average and variance. The median is a more reliable indicator than the average for both successful and unsuccessful campaigns, as it's less influenced by extreme cases. This could imply that even campaigns with many backers can fail, perhaps due to reasons other than lack of support.
 
 
-- I will use my data to determine whether the mean or the median better summarizes the data.
+### I will use my data to determine whether the mean or the median better summarizes the data.
   
-    - It can be observed from the statistical analysis that the mean number of backers is larger than the median number of backers in both successful and unsuccessful campaigns by comparing the mean and median figures. This shows that the distributions are positively skewed with most campaigns having fewer backers and a limited number of large-backer initiatives.
+- It can be observed from the statistical analysis that the mean number of backers is larger than the median number of backers in both successful and unsuccessful campaigns by comparing the mean and median figures. This shows that the distributions are positively skewed with most campaigns having fewer backers and a limited number of large-backer initiatives.
 In such cases, where the distribution is positively skewed, the median is often a better measure of central tendency than the mean because it is less affected by extreme values. 
 Therefore, it can be concluded that the median better summarizes the data for both successful and unsuccessful campaigns.
 
-- Also, I will use my data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+### Also, I will use my data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
   
-    - Based on these values of variance and standard deviation, there is more variability in the number of backers for successful campaigns compared to unsuccessful campaigns. The variance and standard deviation values for successful campaigns are higher than those for unsuccessful campaigns.
+- Based on these values of variance and standard deviation, there is more variability in the number of backers for successful campaigns compared to unsuccessful campaigns. The variance and standard deviation values for successful campaigns are higher than those for unsuccessful campaigns.
 This result makes sense because successful campaigns tend to have a wider range of backers, with some campaigns receiving a very large number of backers while others receive fewer. On the other hand, unsuccessful campaigns generally have a lower number of backers overall, and their backers tend to have similar numbers. This narrower range of backers for unsuccessful campaigns results in lower variability in the data.
 Therefore, based on the statistical analysis, it makes sense that there is more variability in the number of backers for successful campaigns because they have a wider range of outcomes, from highly successful campaigns with many backers to those that are only marginally successful.
 
