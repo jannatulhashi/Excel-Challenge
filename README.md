@@ -59,7 +59,7 @@ Overall, the data suggests that the middle of the year, particularly June and Ju
 
 - **Project Visibility and Marketing:** Success in these categories might also be influenced by how well the projects are marketed and the visibility they receive. Theater and technology projects may be more likely to have robust marketing campaigns that effectively reach potential backers.
 
-- **Discretionary Spending and Trends:** The middle of the year may coincide with times when people have more disposable income (such as after tax refunds in some countries) or when they are more engaged with online platforms, leading to a higher chance of success for campaigns launched in June and July.
+- **Discretionary Spending and Trends:** The middle of the year may coincide with times when people have more disposable income (such as after-tax refunds in some countries) or when they are more engaged with online platforms, leading to a higher chance of success for campaigns launched in June and July.
 
 - **Seasonal Factors:** December's higher risk of failure could be due to the holiday season when potential backers might prioritize personal spending over crowdfunding contributions.
 
@@ -72,7 +72,7 @@ Overall, the data suggests that the middle of the year, particularly June and Ju
 - **Niche Appeal:** Journalism and games may face challenges due to their niche appeal or the saturation of the market with many similar projects, making it harder for individual campaigns to stand out.
 
   
-- Then I will create a report in Microsoft Word, and answer the following questions:
+### Then I will create a report in Microsoft Word, and answer the following questions:
 
 **Question:** Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
      
@@ -82,7 +82,7 @@ Overall, the data suggests that the middle of the year, particularly June and Ju
 
 2.	Based on the data, it has been observed that the film & video, and theater(plays) categories have the most campaigns. The theatre category performed exceptionally well with 187 successful campaigns, surpassing the film & video category, which had 102 campaigns. When considering all categories, theatre and film & video had the highest number of campaigns with 344 and 178, respectively. This indicates that these categories are popular among those looking to launch crowdfunding campaigns.
 
-3.	It has been observed in the data that crowdfunding campaigns tend to have a greater chance of success in the middle of the year, particularly in the months of June and July. So, it can be concluded that, during the summer season, there is a strong possibility that there will be a significant increase in participation in crowdfunding campaigns.
+3.	It has been observed in the data that crowdfunding campaigns tend to have a greater chance of success in the middle of the year, particularly in June and July. So, it can be concluded that, during the summer season, there is a strong possibility that there will be a significant increase in participation in crowdfunding campaigns.
 
 **Question:**  What are some limitations of this dataset?
 
@@ -94,7 +94,7 @@ Overall, the data suggests that the middle of the year, particularly June and Ju
 	
 3.	The "backers_count" in the crowdfunding data only shows how many people supported a campaign, but it doesn't give any information about who they are or why they supported it. This data is limited because it doesn't provide details about the individual backers, like their demographics or motivations. This information can be important for creating successful crowdfunding campaigns, but the current dataset doesn't have it.
 	
-4.	Another limitation is the dataset's coverage is restricted to campaigns in specific countries and regions, which may not accurately represent the global crowdfunding market. As a result, drawing conclusions about crowdfunding on a global scale could be challenging due to the limited generalizability of the data.
+4.	Another limitation is the dataset's coverage is restricted to campaigns in specific countries and regions, which may not accurately represent the global crowdfunding market. As a result, concluding crowdfunding on a global scale could be challenging due to the limited generalizability of the data.
 	
 5.	The current data available on crowdfunding campaigns may not provide a complete understanding of the process as it lacks adequate information on unsuccessful campaigns. Understanding why both successful and unsuccessful campaigns happen is important, but this data isn't in the dataset.
  
