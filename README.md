@@ -74,7 +74,7 @@ Overall, the data suggests that the middle of the year, particularly June and Ju
   
 ### Then I will create a report in Microsoft Word, and answer the following questions:
 
-**Question:** Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
+**Question: Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?**
      
 **Ans:** From the provided data on crowdfunding campaigns, here are three conclusions that can be drawn:
 
@@ -84,7 +84,7 @@ Overall, the data suggests that the middle of the year, particularly June and Ju
 
 3.	It has been observed in the data that crowdfunding campaigns tend to have a greater chance of success in the middle of the year, particularly in June and July. So, it can be concluded that, during the summer season, there is a strong possibility that there will be a significant increase in participation in crowdfunding campaigns.
 
-**Question:**  What are some limitations of this dataset?
+**Question: What are some limitations of this dataset?**
 
 **Ans:** There are some limitations to crowdfunding data that should be taken into consideration, including:
 
@@ -99,10 +99,9 @@ Overall, the data suggests that the middle of the year, particularly June and Ju
 5.	The current data available on crowdfunding campaigns may not provide a complete understanding of the process as it lacks adequate information on unsuccessful campaigns. Understanding why both successful and unsuccessful campaigns happen is important, but this data isn't in the dataset.
  
 
-**Question:** What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
+**Question: What are some other possible tables and/or graphs that we could create, and what additional value would they provide?**
 
-**Ans:** 
-**Bar Graph:** Analyzing the success rate of crowdfunding campaigns by country/region through a bar graph can provide key insights into different markets. With this information, potential opportunities and challenges can be identified with confidence in various regions.
+**Ans:**  **Bar Graph:** Analyzing the success rate of crowdfunding campaigns by country/region through a bar graph can provide key insights into different markets. With this information, potential opportunities and challenges can be identified with confidence in various regions.
 
 **Box Plot:** The distribution of funding amounts for successful campaigns within each category and subcategory could be displayed using a box plot. This would make it easier to identify any trends or outliers within each category. 
 
